@@ -2,7 +2,7 @@
   "posts":[
     {
       "id" : 0,
-      "title": "First post!",
+      "title": "Vin data!",
       "content" : "My first content!"
     }
   ],
@@ -10,7 +10,7 @@
     {
       "id": 0,
       "content": "Wow such content!",
-      "username": "zero_cool"
+      "username": "vin_cool"
     }
   ]
 }
